@@ -1,0 +1,1 @@
+Each python file pull data from the sites they're named after respectively
